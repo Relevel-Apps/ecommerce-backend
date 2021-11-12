@@ -22,7 +22,7 @@ npm start
 ```
 
 
-## To reflect frontend code changes
+## To reflect code changes
 Stop the server
 ```
 npm start
